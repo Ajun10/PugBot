@@ -1,3 +1,2 @@
-# pugbot.github.io
-
+# pugbot
 A website I created for my Discord Server
